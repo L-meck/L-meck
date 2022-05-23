@@ -28,7 +28,7 @@ Biggest believer of failing fast💣🔫.
 [![](https://visitcount.itsvg.in/api?id=L-meck&icon=1&color=11)](https://visitcount.itsvg.in)
 
   ## 💰You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/lameck kanai) 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/lameckkanai) 
 
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   
