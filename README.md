@@ -1,7 +1,7 @@
 # 💫About Me :
 😎Software Engineer💻, 
 🐰Game Developer📺,
-🌋Mobile Developer📱,
+🌋Mobile App Developer📱,
 
 Biggest believer of failing fast💣🔫.
 
